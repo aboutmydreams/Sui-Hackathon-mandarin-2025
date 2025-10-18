@@ -1,7 +1,7 @@
-## project
+# Sui LP v3 Aggregator
 
 - 项目名称: **Sui LP v3 Aggregator**
-> 描述：聚合 Sui 生态多家 DeFi 协议的 LP 数据与操作入口，支持 Cetus、Bluefin、MMT Finance、Kriya、Magma Finance、Turbos（含 Pin/Not Pin），并内嵌 FlowX 与 Steamm 的 iframe 便于快捷交互。
+> 描述：聚合 Sui 生态多家 DeFi 协议的 LP 数据与操作入口，支持 Cetus、Bluefin、MMT Finance、Kriya、Magma Finance、Turbos（含 Pin/Not Pin），为 Agent 开发者提供一站式 API 服务，监测到所有 LP Pool 的盈利数据变化，Agent 自动执行相关 pool 的操作。
 - Sui 钱包地址: 0xcb2800da31772c4381d2c7d382fc5d6636e343df54099af7aaedcb85f9da77fb
 > 描述：用于接收奖励
 
