@@ -25,7 +25,7 @@
 - 代码仓库：[github](https://github.com/d1vai/sui-defillama)
 
 - 在线地址：<https://sui-lp3.d1v.xyz/>
-- 演示文档 / PPT：<https://sui-lp3.d1v.xyz/docs>
+- 演示文档 / PPT：<https://sui-lp3.d1v.xyz/doc>
 
 ---
 
@@ -67,7 +67,9 @@ Sui LP v3 Aggregator 为 Sui 区块链上的 LP 数据聚合平台，提供统�
    # 或
    pnpm install
    ```
+
 3. 配置环境变量（在根目录创建 `.env.local`）
+
    ```env
    GITHUB_ID=你的GitHub OAuth App ID
    GITHUB_SECRET=你的GitHub OAuth App Secret
